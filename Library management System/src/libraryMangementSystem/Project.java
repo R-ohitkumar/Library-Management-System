@@ -23,7 +23,7 @@ public class Project {
 		System.out.println("press 3 to return a book");
 		
 		System.out.println();
-		System.out.println("press 4 to print comple issue details");
+		System.out.println("press 4 to print complete issue details");
 		
 		System.out.println();
 		System.out.println("press 5 to exit");
